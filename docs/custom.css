@@ -1,0 +1,17 @@
+:root { --content-max-width: 800px; }
+
+.screenshot-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 256px);
+    gap: 8px;
+    justify-content: center;
+}
+
+.screenshot-grid img {
+    width: 256px;
+    image-rendering: pixelated;
+}
+
+@media (max-width: 860px) {
+    .screenshot-grid { grid-template-columns: 256px; }
+}

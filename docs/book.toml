@@ -1,0 +1,10 @@
+[book]
+title = "Tarnished Platinum"
+authors = ["tinle"]
+language = "en"
+
+[output.html]
+additional-css = ["custom.css"]
+no-section-label = true
+default-theme = "ayu"
+preferred-dark-theme = "ayu"
