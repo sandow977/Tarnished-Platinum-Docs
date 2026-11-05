@@ -5,3 +5,4 @@
 - This game still features 2x crits, and the game was balanced around them
 - The Trainer AI has been heavily modified. I highly reccomend consulting the Trainer AI doc.
 - Some moves have received upgrades, such as Rock Smash automatically dropping defense, and Stomp becoming Ground-type.
+- The Mothim/Wormadam and Huntail/Gorebyss lines have been "split" into seperate Pokemon to allow the player to use both. Their evolution lines have been upgraded to reflect this.
